@@ -1,0 +1,4 @@
+nama:Elvi Yunilta 
+nim:D0424308
+kelas:sistem informasi 
+angkatan:2024
